@@ -17,3 +17,6 @@
 *.l#?
 *.lck
 
+# ignore local description
+DESCRIPTION
+
