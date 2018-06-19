@@ -8,6 +8,7 @@ L71_devices.lbr
 * Cirrus Logic CS4354 I2S Audio DAC
 * XP Power ITV series DC-DC converter (verified)
 * ISD1820 audio record & playback chip (verified)
+* 4x7 segment 0.36" LED display Everstar ESD-036BG4BW-CCS1, Tayda Electronics # A-1769.
 
 Note: "Verified" means it has been used on at least one PCB and I think it's OK.
 
